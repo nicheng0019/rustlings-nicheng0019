@@ -8,6 +8,7 @@
 
 
 
+
 #[derive(Debug, PartialEq, Eq)]
 pub enum DivisionError {
     NotDivisible(NotDivisibleError),
